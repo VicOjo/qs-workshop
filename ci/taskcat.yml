@@ -13,6 +13,6 @@ global:
 tests:
   lab-master-vpc:
     parameter_input: workshop_input.json 
-    template_file: master.template.yaml
+    template_file: main.template.yaml
     regions:
       - us-west-2
